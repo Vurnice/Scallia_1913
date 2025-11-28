@@ -34,7 +34,7 @@ Germany is divided into a number of states, each of which have their own governm
 @weimar_timeline
 go-to: menu
 
-= Timeline of the Scallia & the Neahan Empire (until 1913)
+= Timeline of the Scalish State & the Neahan Empire (until 1913)
 
 **1500**: The unification of Scalish states and 
 
@@ -50,13 +50,15 @@ go-to: menu
 
 **1825**: 
 
-**1890**: The First global warbreaks out with Neahe, Grunberg and Haemian States form the central states.
+**1890**: The First global war breaks out with Neahe, Grunberg and Haemian States form the central states.
 
 **1906**: End of the second global war leads to the occupation of the Neahan Empire by the allies and consequently Scallia. 
 
-**1911**: The prolonged occupation leads to unrest a the SPP gain a historic majority in parliament.
+**1911**: The prolonged occupation leads to unrest and the SPP gain a historic majority in parliament.
 
 **1912**: The Veiian Treaty is put in place and the occupation zones in Scallia are allowed independence thanks to efforts of SPP, and other pro-independence opposition parties. Thus finally declaring the formal and legal end of Scallia's personal union with Neahe. 
+
+**1913**: The Scalish State looks forward to host it's first ever election, in hopes of deciding the future for the Scalish people. New parties form and despite holding a majority, some are beginning to question if the SPP is fit to lead the economy.
 
 @curr_gov
 go-to: cabinet if spd_in_government; menu if not spd_in_government
